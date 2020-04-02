@@ -393,6 +393,25 @@ button {
 .ui-accordion .ui-accordion-header.ui-state-active .ui-icon {
     transform: rotate(90deg);
 }
+.ui-widget-header {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+}
+.ui-dialog .ui-dialog-titlebar {
+    padding: 20px 0 20px 0;
+    width: 100%;
+}
+.ui-dialog {
+    padding: 0;
+    border: none;
+}
+.ui-button.ui-icon.ui-widget-header.ui-icon {
+    background-image: none;
+}
+
+
 
 
 
